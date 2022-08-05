@@ -18,8 +18,11 @@ Our goal is to replace a regular key by a system which will open a lock by readi
 Every member of our small team have a certain task to do such as programming the lock, creating mobile app and building whole system to add keys proper locks. 
 
 ## How to Contribute
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 ## Resources
+#### <a href="https://keymanager.theiotproject.com/">Key Manager</a>
+#### <a href="https://keymanager.theiotproject.com/">Blog</a>
 
 ## Fun facts
 -> We are powered by Yerba Mate
