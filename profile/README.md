@@ -25,4 +25,4 @@ When contributing to this repository, please first discuss the change you wish t
 #### <a href="https://keymanager.theiotproject.com/">Blog</a>
 
 ## Fun facts
--> We are powered by Yerba Mate
+-> We are powered by Yerba Mate and driven by Coffee.
